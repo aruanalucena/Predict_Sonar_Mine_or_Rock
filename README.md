@@ -13,8 +13,7 @@ Conheça mais sobre os meus projetos, publicações na área de dados.
 * Meu canal no [YouTube](https://www.youtube.com/channel/UCdpeqZIZ1JGZk2PywYTcQdw)
 
 
-#  <font color='yellow'>Prediction_Diabetes_SVM
-# Predict Sonar Rock or Mine ?
+#  <font color='yellow'>Prediction Sonar Rock or Mine ?
  
  ![Imgur](https://i.imgur.com/IU1iapG.jpg)
 
